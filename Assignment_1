@@ -48,10 +48,21 @@ Q16. Write a code that gives following as an output.
 ```
 iNeuroniNeuroniNeuroniNeuron
 ```
-
+A16.
+      str = "iNeuron"
+      print(str*4)
+      
 Q17. Write a code to take a number as an input from the user and check if the number is odd or even.
+A17. 
+      Num = int(input("Enter the desired number to check if it is odd or even : "))
+      if Num%2 == 0 :
+          print("The entered number ", Num, " is Even.")
+      else : 
+          print("The entered number ", Num, " is Odd.")
 
 Q18. What are boolean operator?
+A18. Boolean operators are those used in conjunctions with different conditions to report the final conclusion of the condtions. 
+      AND, OR and NOT are the boolean operators.
 
 Q19. What will the output of the following?
 ```
@@ -63,6 +74,7 @@ True and False and True
 
 1 or 0 or 0
 ```
+A19.
 
 Q20. What are conditional statements in Python?
 

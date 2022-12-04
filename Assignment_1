@@ -3,21 +3,34 @@ Q1. Why do we call Python as a general purpose and high-level programming langua
 A1. Python is a high-level programming language because its easy to understand by human beings.
 
 Q2. Why is Python called a dynamically typed language?
-A2. 
+A2. In python declaring the type of variable is not mandatory hence it is called as dynamically typed language.
 
 Q3. List some pros and cons of Python programming language?
+A3. Advantages - 
+      1. Easy to understand
+      2. Extensive libraries
+    Disadvantages - 
+      1. Slower as compared to other compiler based languages
+      2. Higher memory consumptions
 
 Q4. In what all domains can we use Python?
+A4. Domains where python are used is data analyst, data science, financial disciplines, etc.
 
 Q5. What are variable and how can we declare them?
+A5. Variables are the dyanmically changing value storage element. Delcaration/Syntax is as follows - 
+    Variable_Name = Constant
 
 Q6. How can we take an input from the user in Python?
+A6. Variable_Name = Input("Enter the input below:")
 
 Q7. What is the default datatype of the value that has been taken as an input using input() function?
+A7. Default datatype is the string.
 
 Q8. What is type casting?
+A8. Type casting is changing the data type of any of the variable.
 
 Q9. Can we take more than one input from the user using single input() function? If yes, how? If no, why?
+A9. 
 
 Q10. What are keywords?
 
